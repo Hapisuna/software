@@ -7,7 +7,7 @@ int main(void)
 	int inp;
 	
 
-	printf("³‚Ì®”(4Œ…)F");
+	printf("æ­£ã®æ•´æ•°(4æ¡)ï¼š");
 	scanf("%d",&inp);
 	printf("%d\n",kasan(inp));
 
