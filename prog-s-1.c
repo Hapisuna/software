@@ -8,7 +8,7 @@ int main(void)
 	
 	printf("³‚Ì®”(4Œ…)F");
 	scanf("%d",&inp);
-	printf("k = %d\n",kasan(inp));
+	printf("%d\n",kasan(inp));
 
 }
 
