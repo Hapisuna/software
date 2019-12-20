@@ -9,7 +9,6 @@ int main(void)
 	printf("正の整数(4桁)：");
 	scanf("%d",&inp);
 	printf("k = %d\n",kasan(inp));
-
 }
 
 int kasan(int n)
@@ -41,16 +40,3 @@ int kasan(int n)
 		kasan(n);
 	}
 }
-		
-
-
-	
-	
-	// printf("%d\n",a);
-	// printf("%d\n",b);
-	// printf("%d\n",c);
-	// printf("%d\n",d);
-	// printf("%d %d\n",max,min);
-
-
-	
