@@ -6,9 +6,11 @@ int main(void)
 {
 	int inp;
 	
-	printf("æ­£ã®æ•´æ•°(4æ¡)ï¼š");
+
+	printf("³‚Ì®”(4Œ…)F");
 	scanf("%d",&inp);
-	printf("k = %d\n",kasan(inp));
+	printf("%d\n",kasan(inp));
+
 }
 
 int kasan(int n)
