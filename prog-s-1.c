@@ -42,16 +42,3 @@ int kasan(int n)
 		kasan(n);
 	}
 }
-		
-
-
-	
-	
-	// printf("%d\n",a);
-	// printf("%d\n",b);
-	// printf("%d\n",c);
-	// printf("%d\n",d);
-	// printf("%d %d\n",max,min);
-
-
-	
